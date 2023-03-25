@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+}
+.bande{
+        
+    height:50px;
+    width: 200px;  
+}
+#orange{
+    background-color: orange;
+
+}
+#blanche{
+    background-color:white;
+}
+#verte{
+    background-color: green;
+}
+#disque{
+    background-color: orange;
+    height:100%;
+    width: 50px;
+    margin-left:75px;
+    border-radius: 100%;
+}
+#drapeau{
+    margin-left:calc(50% - 100px);
+    margin-top:200px;
+}
